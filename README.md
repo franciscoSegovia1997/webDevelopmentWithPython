@@ -13,5 +13,5 @@ The lectures of the course can be found in the following repository:
 During the development of this course since the year 2022, the following projects have been created as examples to demonstrate the usage and application of the Django framework.
 
 - [Django app for inventory and product management]()
-- [Django app for task and activity management]()
+- [Django app for task and activity management](https://github.com/franciscoSegovia1997/TaskManagerProject.git)
 - [Django app social network]()
